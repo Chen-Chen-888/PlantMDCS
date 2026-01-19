@@ -1,5 +1,5 @@
 
-PlantMDCS
+# PlantMDCS
 PlantMDCS (Plant Multi-Omics Database Construction Suite) is a code-free, modular graphical toolkit designed for rapid construction of plant multi-omics databases, featuring extremely low technical barriers.
 
 Core Features
