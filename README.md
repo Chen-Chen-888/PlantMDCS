@@ -2,7 +2,7 @@
 # PlantMDCS
 PlantMDCS (Plant Multi-Omics Database Construction Suite) is a code-free, modular graphical toolkit designed for rapid construction of plant multi-omics databases, featuring extremely low technical barriers.
 
-Core Features
+## Core Features
 
 - 🖥️ Standalone Windows Executable: Ready to use upon download, no development environment configuration required.
 
@@ -14,7 +14,7 @@ Core Features
 
 - 📊 Integrated Research Analysis: Incorporates comprehensive functional modules to meet the needs of plant research and analysis.
 
-Download Link
+## Download Link
 
 The Windows version of PlantMDCS 1.0 has been officially released and can be downloaded from the link below:
 
@@ -24,7 +24,7 @@ The Windows version of PlantMDCS 1.0 has been officially released and can be dow
 
 - Transcriptome BAM Example File: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">Example.file_transcriptome_bam.zip</a>
 
-Supplementary Resources
+## Supplementary Resources
 
 - Chinese Introduction Video: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">PlantMDCS-Introduction-Chinese.mp4</a>
 
