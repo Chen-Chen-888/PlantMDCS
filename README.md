@@ -24,8 +24,6 @@ The Windows version of PlantMDCS 1.0 has been officially released and can be dow
 
 - Transcriptome BAM Example File: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">Example.file_transcriptome_bam.zip</a>
 
-## Supplementary Resources
-
 - Chinese Introduction Video: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">PlantMDCS-Introduction-Chinese.mp4</a>
 
 - English Introduction Video: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">PlantMDCS-Introduction-English.mp4</a>
