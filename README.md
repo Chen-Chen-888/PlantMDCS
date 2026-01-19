@@ -6,7 +6,7 @@ PlantMDCS (Plant Multi-Omics Database Construction Suite) is a code-free, modula
 
 - 🖥️ Standalone Windows Executable: Download & use directly, no dev environment setup needed
 
-- 🚀 Full-Process Code-Free Operation: Supports end-to-end multi-omics data operations without writing any code.
+- 🚀 Full-Process Code-Free Operation: Build plant multi-omics databases end-to-end with zero coding.
 
 - 🌱 Multi-Omics Data Compatibility: Adaptable to major plant multi-omics data types.
 
