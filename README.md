@@ -28,4 +28,6 @@ The Windows version of PlantMDCS 1.0 has been officially released and can be dow
 
 - Chinese Operation Video: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">PlantMDCS-operation-Chinese.mp4</a>
 
+- English Operation Video: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">PlantMDCS-operation-English.mp4</a>
+
 - User Manual: <a href="https://github.com/Chen-Chen-888/PlantMDCS/releases/tag/PlantMDCS">User.manual.pdf</a>
